@@ -1,0 +1,6 @@
+name: My Github WorkFlow
+
+run-name: ${{github.actor}} initiated a workflow.
+
+on:
+  - push
